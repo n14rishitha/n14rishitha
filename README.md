@@ -21,24 +21,24 @@ Here are some ideas to get you started:
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
 
-🔭 I’m currently working ... 
+<h4> 🔭 I’m currently working on ... </h4>
   - Web and App development.<br>
   
-🌱 I’m currently learning ...<br>
+<h4> 🌱 I’m currently learning ...<br> </h4>
   - about App development and Deepening my knowledge in Machine Learning and Data Science.<br>
 
-👯 I’m looking to collaborate on ...<br>
+<h4> 👯 I’m looking to collaborate on ...<br> </h4>
   - Exciting projects related to Full Stack Development, Machine Learning, and Open Source contributions.<br>
   
-💬 Ask me about ...<br>
+<h4> 💬 Ask me about ...<br></h4>
   - Web Development , Python programming and My journey in Computer Science.<br>
   
-📫 How to reach me: ...<br>
+<h4> 📫 How to reach me: ...<br> </h4>
   - You Can reach me out via [email](rishinandanapu366@gmail.com) or [Linked in](https://www.linkedin.com/in/rishitha-nandanapu-a61015301/)<br>
   
-😄 Pronouns: ...<br>
+<h4> 😄 Pronouns: ...<br> </h4>
   - She/Her<br>
   
-⚡ Fun fact: ...<br>
+<h4> ⚡ Fun fact: ...<br></h4>
   - I love exploring new tech tools!
 
