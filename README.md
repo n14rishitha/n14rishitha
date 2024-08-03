@@ -22,23 +22,32 @@ Here are some ideas to get you started:
 </div>
 
 <h4> 🔭 I’m currently working on ... </h4>
-  - Web and App development.<br>
-  
+  <ul>
+   <li>Web and App development.</li>
+  </ul>
 <h4> 🌱 I’m currently learning ...<br> </h4>
-  - about App development and Deepening my knowledge in Machine Learning and Data Science.<br>
-
+  <ul>
+   <li> about App development and Deepening my knowledge in Machine Learning and Data Science.</li>
+  </ul> 
 <h4> 👯 I’m looking to collaborate on ...<br> </h4>
-  - Exciting projects related to Full Stack Development, Machine Learning, and Open Source contributions.<br>
+ <ul>
+   <li>Exciting projects related to Full Stack Development, Machine Learning, and Open Source contributions.</li>
+ </ul>  
   
 <h4> 💬 Ask me about ...<br></h4>
-  - Web Development , Python programming and My journey in Computer Science.<br>
-  
-<h4> 📫 How to reach me: ...<br> </h4>
-  - You Can reach me out via [email](rishinandanapu366@gmail.com) or [Linked in](https://www.linkedin.com/in/rishitha-nandanapu-a61015301/)<br>
+  <ul>
+   <li>Web Development , Python programming and My journey in Computer Science.</li>
+  </ul>
+<h4>📫 How to reach me: <br> </h4>
+<ul>
+  <li>You can reach me via <a href="mailto:rishinandanapu366@gmail.com">email</a> or on <a href="https://www.linkedin.com/in/rishitha-nandanapu-a61015301/">LinkedIn</a></li>
+</ul>
   
 <h4> 😄 Pronouns: ...<br> </h4>
-  - She/Her<br>
-  
+  <ul>
+   <li>She/Her</li>
+  </ul>
 <h4> ⚡ Fun fact: ...<br></h4>
-  - I love exploring new tech tools!
-
+  <ul>
+    <li>I love exploring new tech tools!</li>
+  </ul>
